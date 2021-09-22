@@ -38,4 +38,5 @@ basically VCS adalah sebuah software untuk memanage perubahan file yang disimpan
 github
 - git push
 - git pull
--git fetch buat cek perubahan terakhir di repo
+- git fetch buat cek perubahan terakhir di repo
+- branch, basically cabang
