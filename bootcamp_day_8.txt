@@ -1,0 +1,32 @@
+day 8 bootcamp
+version control system(VCS)
+
+-> git/github(software)
+--> sebuah konsep untuk menyimpan perubahan didalam file
+
+*anggap kerjain job 1 -> terus simpan perubahannya, besoknya ada update data, maka dibuat file baru simpan yang baru di file baru.
+
+basically VCS adalah sebuah software untuk memanage perubahan file yang disimpan di suatu repo, konsep yang dibungkus software.
+
+-GIT
+
+	> git is a free and open source distributed version control system designed to handle everything from small to very large
+ 	projects with speed and efficiency, now git is widely used and become the standard of VCS, creator of git is also creator of linux
+
+	>> the most anticipated production software is the one that have stability
+
+	*> git can logs every history for every file, include the creations, deletion, even the changes inside the file
+
+	*> git have traceability features, include the author, reason, time, etc.
+
+	*> git have distribuction system features, each person gets their own local repository(minimize network,ez backup,block on err)
+	
+	*> git have branching workflow -> easier collaboration
+
+	*> merging features for git
+
+	*> git commands and configuration
+- bikin folder, klik kanan, git bash here
+- git init
+- untuk cek ls -all, cek file .git
+- check config git config --list
