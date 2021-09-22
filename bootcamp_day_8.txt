@@ -30,3 +30,12 @@ basically VCS adalah sebuah software untuk memanage perubahan file yang disimpan
 - git init
 - untuk cek ls -all, cek file .git
 - check config git config --list
+- git status
+- git log
+- git checkout -> pindah branch
+-> git working analogy : working directory (local)[git add] -> staging area (where we commit)[git commit] -> localrepo
+
+github
+- git push
+- git pull
+-git fetch buat cek perubahan terakhir di repo
